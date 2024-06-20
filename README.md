@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I am Ashish💫 
 🌱 I’m currently learning about Rigid Body Dynamics.<br>👯 I’m looking to collaborate on Software Projects.<br>🤝 I’m looking for help with my Resume  ;-;<br><br>💬 Ask me anything @ ashishgupta101061@gmail.com
 
 
