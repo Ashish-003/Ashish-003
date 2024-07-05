@@ -1,4 +1,5 @@
-# Hi there, I am Ashish💫 
+# Hi there, I am Ashish💫   [![](https://visitcount.itsvg.in/api?id=Ashish-003&icon=0&color=0)](https://visitcount.itsvg.in)
+
 🌱 I’m currently learning about Rigid Body Dynamics.<br><br><br>💬 Ask me anything @ ashishgupta101061@gmail.com
 
 
@@ -16,5 +17,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashish-003&icon=0&color=0)](https://visitcount.itsvg.in)
-
