@@ -1,5 +1,5 @@
 # Hi there, I am Ashish💫 
-🌱 I’m currently learning about Rigid Body Dynamics.<br<br><br>💬 Ask me anything @ ashishgupta101061@gmail.com
+🌱 I’m currently learning about Rigid Body Dynamics.<br><br><br>💬 Ask me anything @ ashishgupta101061@gmail.com
 
 
 ## 🌐 Socials:
